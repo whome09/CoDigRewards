@@ -1,15 +1,5 @@
 # CoDigReward Plugin Wiki
 
-## 📖 Table of Contents
-
-- [Introduction](https://share.chatgptdo.com/chat/1c7f2a44-746c-40d2-844c-7b707fd731d5#introduction)
-- [Installation & Configuration](https://share.chatgptdo.com/chat/1c7f2a44-746c-40d2-844c-7b707fd731d5#installation--configuration)
-- [Command System](https://share.chatgptdo.com/chat/1c7f2a44-746c-40d2-844c-7b707fd731d5#command-system)
-- [Permission System](https://share.chatgptdo.com/chat/1c7f2a44-746c-40d2-844c-7b707fd731d5#permission-system)
-- [Configuration File](https://share.chatgptdo.com/chat/1c7f2a44-746c-40d2-844c-7b707fd731d5#configuration-file)
-- [Task Configuration](https://share.chatgptdo.com/chat/1c7f2a44-746c-40d2-844c-7b707fd731d5#task-configuration)
-- [Language Support](https://share.chatgptdo.com/chat/1c7f2a44-746c-40d2-844c-7b707fd731d5#language-support)
-- [FAQ](https://share.chatgptdo.com/chat/1c7f2a44-746c-40d2-844c-7b707fd731d5#faq)
 
 ------
 
